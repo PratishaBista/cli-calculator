@@ -11,7 +11,7 @@ Main calculator (main_calculator.py) to integrate all operations <br />
 
 ## Clone the repository:
 
-git clone https://github.com/your-username/cli-calculator.git <br />
+git clone git@github.com:PratishaBista/cli-calculator.git <br />
 cd cli-calculator <br />
 
 ## Run the calculator:
